@@ -2,13 +2,13 @@
 
 **`Desenvolvedora em formação`**
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 
 Técnico em Informática | IFSC
 <br/>
 Bacharelado em Ciência da Computação | FURB (em andamento)
 
-### 📚 Cursos
+### Cursos
 Inteligência Artificial | Entra21 (em andamento)
 
 ### Linguagens e Tecnologias
